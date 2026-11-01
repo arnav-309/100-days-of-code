@@ -1,9 +1,9 @@
-// Day 18
+// Day 19
 // Question 37
 
 #include <stdio.h>
 
 int main() {
-    printf("Day 18 - Question 37\n");
+    printf("Day 19 - Question 37\n");
     return 0;
 }
